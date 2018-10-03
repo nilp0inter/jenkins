@@ -1,0 +1,4 @@
+projects:
+    jenkins:
+        type: deeptracy-owasp-dependency-check
+        strategy: dependency_check
